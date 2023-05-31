@@ -19,6 +19,9 @@
     border: 2px solid #fcd535;
     border-radius: 7px;
 }
+#btn2{
+    border:2px solid grey;
+}
 
 #item-1 {
     flex-basis: 35%;
