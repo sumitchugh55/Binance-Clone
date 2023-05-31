@@ -1,0 +1,76 @@
+/* welcome section css */
+.welcome {
+    display: flex;
+        margin-top: 80px;
+    justify-content: space-around;
+    
+}
+
+.btn {
+    display: block;
+    height: 49px;
+    width: 475px;
+    text-align: left;
+    font-size: 22px;
+}
+
+#btn1 {
+    background-color:#fcd535;
+    border: 2px solid #fcd535;
+    border-radius: 7px;
+}
+
+#item-1 {
+    flex-basis: 35%;
+   }
+
+#item-2 {
+    flex-basis: 40%;
+    }
+
+span {
+    color: rgb(142, 142, 7);
+}
+
+p {
+    display: inline;
+}
+
+img {
+    height: 220px;
+    width: 260px;
+}
+
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+}
+.img1{
+    height: 70px;
+}
+.section{
+    display: flex;
+    }
+
+
+
+#logo1{
+    flex-basis: 90%;
+    
+    
+}
+#logo2{
+    flex-basis: 4%;
+    margin-left: 60px;
+    margin-top: 10px;
+   
+}
+
+/* Footer styling */
+footer{
+    margin-bottom: 0px;
+    margin-top: 40px;
+    }
